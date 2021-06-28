@@ -1,0 +1,22 @@
+{
+  "name": "esda-rest",
+  "version": "1.0.0",
+  "description": "restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsocodes/esda-rest.git"
+  },
+  "author": "alsocodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsocodes/esda-rest/issues"
+  },
+  "homepage": "https://github.com/alsocodes/esda-rest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
